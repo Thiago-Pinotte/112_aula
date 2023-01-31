@@ -1,0 +1,46 @@
+body
+{
+  color: white;
+  background: #c0d3ff;
+}
+span
+{
+  font-size: 30px;
+  font-family: cursive;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+  font-family: cursive;
+}
+#resultEmotionName ,#resultEmotionName2 
+{
+  color: black;
+  font-family: cursive;
+}
+.emotionName
+{
+  font-size: 40px;
+  font-family: cursive;
+}
+.emoji
+{
+  font-size:48px;
+  font-family: cursive;
+}
+.heading{
+  font-size: 20px;
+  border-radius: 12px;
+  letter-spacing: 10px;
+  font-family: cursive;
+}
+label{
+  font-size: 15px;
+  color: rgb(0, 182, 214);
+  padding: 6px;
+  border-radius: 12px;
+  background-color: rgb(186, 186, 250);
+  font-family: cursive;
+}
